@@ -1,6 +1,6 @@
 # Welcome to My HackPack Portfolio!
 
-Hey there! I'm [Your Name], a [Year] student at **North Carolina State University**. I've been an enthusiastic member of **HackPack** for [Time Period].
+Hey there! I'm Luke Shafer, a 2027 student at **North Carolina State University**. I've been an enthusiastic member of **HackPack** for Spring 2024.
 
 ## Portfolio Overview
 
